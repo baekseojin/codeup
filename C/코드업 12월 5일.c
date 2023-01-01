@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int DT[10001][10001];
+
 
 int main()
 {
